@@ -7,14 +7,16 @@
 БД: PostgreSQL
 
 ## Использование
-Запуск сервера
+Импортировать БД из ```programodo_dump.sql```.
+
+Запуск сервера:
 ```bash
 $ cd server
 $ npm i
 $ npm start
 ```
 
-Запуск Tauri-приложения
+Запуск Tauri-приложения:
 ```bash
 $ npm i
 $ npm run tauri dev
@@ -24,3 +26,6 @@ $ npm run tauri dev
 ```bash
 $ npm run tauri build
 ```
+
+## Версия
+Ожидает доработки в архитектуре на стороне фронтенда.

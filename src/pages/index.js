@@ -1,0 +1,10 @@
+// export { MainPage } from './main';
+export { LoginPage } from './login';
+export { SignupPage } from './signup';
+export { ProductPage } from './products';
+export { UserProfilePage } from './user-profile';
+export { AdminPage } from './admin';
+export { TasksPage } from './tasks';
+export { TeamsPage } from './teams';
+export { RoadMapPage } from './roadmap';
+export { CommunityPage } from './community';
